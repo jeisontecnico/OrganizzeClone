@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">OrganizzeClone</string>
     <string name="intro_1_text1">Organize suas contas de onde estiver</string>
@@ -5,7 +6,7 @@
     <string name="intro1_text2">Simples, facil de usar e grátis</string>
     <string name="intro_2_text2">Categorizando seus lançamentos e vendo o destino de cada centavo</string>
     <string name="intro_3_text1">Nunca mais esqueça de pagar uma conta</string>
-    <string name="intro_3_text2" >Receba alertas quando quiser</string>
+    <string name="intro_3_text2">Receba alertas quando quiser</string>
     <string name="intro_4_text1">Todas as contas organizadas no seu celular</string>
     <string name="intro_4_text2">Dados armazenados com segurança</string>
 </resources>
