@@ -5,7 +5,19 @@
     <string name="intro1_text2">Simples, facil de usar e grátis</string>
     <string name="intro_2_text2">Categorizando seus lançamentos e vendo o destino de cada centavo</string>
     <string name="intro_3_text1">Nunca mais esqueça de pagar uma conta</string>
-    <string name="intro_3_text2" >Receba alertas quando quiser</string>
+    <string name="intro_3_text2">Receba alertas quando quiser</string>
     <string name="intro_4_text1">Todas as contas organizadas no seu celular</string>
     <string name="intro_4_text2">Dados armazenados com segurança</string>
+    <string name="intro_cadastro_text1">Crie sua conta grátis</string>
+    <string name="intro_cadastro_button_cadastrar">Cadastre-se</string>
+    <string name="intro_cadastro_text2">Já tenho conta</string>
+    <string name="activity_cadastro_text1">Crie sua conta grátis</string>
+    <string name="activity_cadastro_hint_name">Nome</string>
+    <string name="activity_cadastro_hint_email">Email</string>
+    <string name="activity_cadastro_hint_senha">Senha</string>
+    <string name="activity_cadastrar_btCadastro">Cadastrar</string>
+    <string name="activity_cadastrar_text_termos">Termos de uso</string>
+    <string name="activity_login_btLogin">Entrar</string>
+    <string name="activity_login_text1">Acesse sua conta</string>
+    <string name="title_activity_main">MainActivity</string>
 </resources>

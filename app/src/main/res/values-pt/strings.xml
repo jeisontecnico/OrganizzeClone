@@ -9,4 +9,15 @@
     <string name="intro_3_text2">Receba alertas quando quiser</string>
     <string name="intro_4_text1">Todas as contas organizadas no seu celular</string>
     <string name="intro_4_text2">Dados armazenados com segurança</string>
+    <string name="intro_cadastro_text1">Crie sua conta grátis</string>
+    <string name="intro_cadastro_button_cadastrar">Cadastre-se</string>
+    <string name="intro_cadastro_text2">Já tenho conta</string>
+    <string name="activity_cadastro_text1">Crie sua conta grátis</string>
+    <string name="activity_cadastro_hint_name">Nome</string>
+    <string name="activity_cadastro_hint_email">Email</string>
+    <string name="activity_cadastro_hint_senha">Senha</string>
+    <string name="activity_cadastrar_btCadastro">Cadastrar</string>
+    <string name="activity_cadastrar_text_termos">Termos de uso</string>
+    <string name="activity_login_btLogin">Entrar</string>
+    <string name="activity_login_text1">Acesse sua conta</string>
 </resources>

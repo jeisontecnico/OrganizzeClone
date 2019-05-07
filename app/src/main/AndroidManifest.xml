@@ -9,7 +9,22 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".view.MainActivity" android:theme="@style/Theme.Intro">
+        <activity android:name=".view.ExpenseActivity"
+            android:theme="@style/ExpenseTheme"
+            ></activity>
+        <activity android:name=".view.RecipeActivity"
+            android:theme="@style/RecipeTheme"
+            />
+        <activity
+            android:name=".view.MainActivity"
+            android:label="@string/title_activity_main"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".view.SelectActivity" />
+        <activity android:name=".view.CadastroActivity" />
+        <activity android:name=".view.LoginActivity" />
+        <activity
+            android:name=".view.StartActivity"
+            android:theme="@style/Theme.Intro">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
